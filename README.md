@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @GroteGehaktBal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Peter!+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
